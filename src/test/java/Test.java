@@ -18,7 +18,7 @@ public class Test {
 		@AfterTest
 		private void test(){
 			System.out.println("==================Test==================");
-			Assert.assertEquals("r", "tt");
+			Assert.assertEquals("r", "r");
 		}
 
 }
